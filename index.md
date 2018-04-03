@@ -1,3 +1,5 @@
+#This is how it begins. Coding is often about just getting in there and messing around. That's why version control is so awesome. An endless series of mulligans. :)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/twosavoie/twosavoie.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
