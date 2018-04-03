@@ -1,4 +1,4 @@
-#This is how it begins. Coding is often about just getting in there and messing around. That's why version control is so awesome. An endless series of mulligans. :)
+# This is how it begins. Coding is often about just getting in there and messing around. That's why version control is so awesome. An endless series of mulligans. :)
 
 ## Welcome to GitHub Pages
 
